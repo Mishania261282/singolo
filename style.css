@@ -149,6 +149,9 @@ a {
     height: 27px;
     cursor: pointer;
 }
+.display-off {
+  opacity: 0;
+}
 /*===== our services =====*/
 
 .our-services{
